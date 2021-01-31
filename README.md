@@ -26,5 +26,4 @@ need to know.
 
 
 # Examples
-
-- ./check_openhab -H openhab -I G0_Entry_Window2_Unreach --regex "[OFF,0]"
+- Check whether offline: ```./check_openhab -H openhab -I G0_Entry_Window2_Unreach --regex "[OFF,0]"```
