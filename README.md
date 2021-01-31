@@ -23,3 +23,8 @@ Usage
 
 The help function (`check_openhab --help`) should cover everything you
 need to know.
+
+
+# Examples
+
+- ./check_openhab -H openhab -I G0_Entry_Window2_Unreach --regex "[OFF,0]"
